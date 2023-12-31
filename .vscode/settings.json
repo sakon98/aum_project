@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\sakon\\Downloads\\mysql-connector-j-8.0.32\\mysql-connector-j-8.0.32.jar",
+        "f:\\GCOOP_ALL\\CORE\\GCOOP\\iReport\\ReportBuilderCORE\\dist\\lib\\ojdbc6.jar"
+    ]
+}
